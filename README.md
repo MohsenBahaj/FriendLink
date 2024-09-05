@@ -1,4 +1,3 @@
-
 # FriendLink
 
 FriendLink is a minimalist chat application built with Flutter, where friends can gather and communicate within a single group. The app is designed for Android, iOS, Web, and Windows platforms, using Firebase services for backend functionalities such as authentication, data storage, and media management.
@@ -9,6 +8,7 @@ FriendLink is a minimalist chat application built with Flutter, where friends ca
 - **Firebase Authentication**: Secure authentication for user login, supporting email/password login.
 - **Firebase Firestore**: Real-time NoSQL database for storing and managing chat messages.
 - **Firebase Storage**: For handling media uploads like images and files.
+- **ImagePicker**: For allowing users to upload profile or shared photos directly from their device.
 - **Platform Support**: Android, iOS, Web, Windows.
 
 ## Authentication Configuration for Platforms
